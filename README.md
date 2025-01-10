@@ -4,7 +4,8 @@ ask QwQ-0.5B
 
 
 
-
+run on cpu only
+it is very fast
 
 
 
